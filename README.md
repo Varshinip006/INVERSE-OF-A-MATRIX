@@ -21,7 +21,7 @@ res=np.linalg.inv(a)
 print(res)
 ```
 ## Output:
-![exp 3 maths](https://github.com/user-attachments/assets/2c8e11fd-8738-47a1-8882-39255ee2c9f5)
+![exp 3 maths](exp%203.maths.png)
 
 ## Result:
 Thus the inverse of given matrix is successfully solved using python program
